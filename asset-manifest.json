@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WebiteUsha/static/css/main.b331e141.css",
-    "main.js": "/WebiteUsha/static/js/main.39ad38fc.js",
+    "main.js": "/WebiteUsha/static/js/main.f139e8dc.js",
     "static/js/787.b7e7a517.chunk.js": "/WebiteUsha/static/js/787.b7e7a517.chunk.js",
     "static/media/img3.jpg": "/WebiteUsha/static/media/img3.abc1e2bf0ec8f81f453e.jpg",
     "static/media/img2.jpg": "/WebiteUsha/static/media/img2.e05777864dc4c77724af.jpg",
@@ -13,11 +13,11 @@
     "static/media/CEO.jpg": "/WebiteUsha/static/media/CEO.d5f5565bdfc1d2be4f96.jpg",
     "index.html": "/WebiteUsha/index.html",
     "main.b331e141.css.map": "/WebiteUsha/static/css/main.b331e141.css.map",
-    "main.39ad38fc.js.map": "/WebiteUsha/static/js/main.39ad38fc.js.map",
+    "main.f139e8dc.js.map": "/WebiteUsha/static/js/main.f139e8dc.js.map",
     "787.b7e7a517.chunk.js.map": "/WebiteUsha/static/js/787.b7e7a517.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b331e141.css",
-    "static/js/main.39ad38fc.js"
+    "static/js/main.f139e8dc.js"
   ]
 }
