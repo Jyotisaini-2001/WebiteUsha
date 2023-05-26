@@ -3,9 +3,9 @@ import React from 'react';
 import Routers from './components/Routers';
 const App = () => {
   return (
-    <div className="App">
+    // <div className="App">
       <Routers />
-    </div>
+    // </div>
   );
 };
 
